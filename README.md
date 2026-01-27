@@ -21,7 +21,7 @@ Puzzles from [Advanced SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQ
 
 | # | Puzzle | Status |
 |---|--------|--------|
-| 1 | Shopping Carts | |
+| 1 | Shopping Carts | x |
 | 2 | Managers and Employees | |
 | 3 | Fiscal Year Table Constraints | |
 | 4 | Two Predicates | |
