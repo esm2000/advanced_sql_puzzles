@@ -24,7 +24,7 @@ Puzzles from [Advanced SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQ
 | 1 | Shopping Carts |x|
 | 2 | Managers and Employees |x|
 | 3 | Fiscal Year Table Constraints | |
-| 4 | Two Predicates | |
+| 4 | Two Predicates |x|
 | 5 | Phone Directory | |
 | 6 | Workflow Steps | |
 | 7 | Mission to Mars | |
