@@ -27,7 +27,7 @@ Puzzles from [Advanced SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQ
 | 4 | Two Predicates |x|
 | 5 | Phone Directory |x|
 | 6 | Workflow Steps |x|
-| 7 | Mission to Mars | |
+| 7 | Mission to Mars |x|
 | 8 | Workflow Cases | |
 | 9 | Matching Sets | |
 | 10 | Mean, Median, Mode, and Range | |
