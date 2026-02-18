@@ -26,7 +26,7 @@ Puzzles from [Advanced SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQ
 | 3 | Fiscal Year Table Constraints | |
 | 4 | Two Predicates |x|
 | 5 | Phone Directory |x|
-| 6 | Workflow Steps | |
+| 6 | Workflow Steps |x|
 | 7 | Mission to Mars | |
 | 8 | Workflow Cases | |
 | 9 | Matching Sets | |
