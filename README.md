@@ -28,7 +28,7 @@ Puzzles from [Advanced SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQ
 | 5 | Phone Directory |x|
 | 6 | Workflow Steps |x|
 | 7 | Mission to Mars |x|
-| 8 | Workflow Cases | |
+| 8 | Workflow Cases |x|
 | 9 | Matching Sets | |
 | 10 | Mean, Median, Mode, and Range | |
 | 11 | Permutations | |
