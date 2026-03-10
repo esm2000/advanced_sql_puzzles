@@ -31,7 +31,7 @@ Puzzles from [Advanced SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQ
 | 8 | Workflow Cases |x|
 | 9 | Matching Sets |x|
 | 10 | Mean, Median, Mode, and Range |x|
-| 11 | Permutations | |
+| 11 | Permutations |x|
 | 12 | Average Days | |
 | 13 | Inventory Tracking | |
 | 14 | Indeterminate Process Log | |
