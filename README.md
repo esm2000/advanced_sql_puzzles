@@ -30,7 +30,7 @@ Puzzles from [Advanced SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQ
 | 7 | Mission to Mars |x|
 | 8 | Workflow Cases |x|
 | 9 | Matching Sets |x|
-| 10 | Mean, Median, Mode, and Range | |
+| 10 | Mean, Median, Mode, and Range |x|
 | 11 | Permutations | |
 | 12 | Average Days | |
 | 13 | Inventory Tracking | |
