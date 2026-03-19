@@ -33,7 +33,7 @@ Puzzles from [Advanced SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQ
 | 10 | Mean, Median, Mode, and Range |x|
 | 11 | Permutations |x|
 | 12 | Average Days |x|
-| 13 | Inventory Tracking | |
+| 13 | Inventory Tracking |x|
 | 14 | Indeterminate Process Log | |
 | 15 | Group Concatenation | |
 | 16 | Reciprocals | |
