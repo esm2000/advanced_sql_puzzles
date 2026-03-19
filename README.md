@@ -32,7 +32,7 @@ Puzzles from [Advanced SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQ
 | 9 | Matching Sets |x|
 | 10 | Mean, Median, Mode, and Range |x|
 | 11 | Permutations |x|
-| 12 | Average Days | |
+| 12 | Average Days |x|
 | 13 | Inventory Tracking | |
 | 14 | Indeterminate Process Log | |
 | 15 | Group Concatenation | |
